@@ -1,0 +1,42 @@
+.CountryCode{
+	width: 200px;
+	margin-right: 3%;
+
+}
+.phone{margin-bottom: 2%;
+	display: flex;
+	flex-direction: row;
+}
+.error{
+	color: red;
+}
+.btn{display: flex;
+	justify-content: center;
+	display: inline;
+}
+.btn Button{padding: 2% 34%;
+}
+.btn2 Button:hover{background: #09e5ab;
+}
+.btn2{display: flex;
+	justify-content: center;
+}
+.btn2 Button{background: #09e5ab;
+	
+	padding: 2% 42%;
+	border-radius: 35px;
+}
+
+.btn3 Button:hover{background: #09e5ab;
+}
+.btn3{display: flex;
+	justify-content: center;
+}
+.btn3 Button{background: #09e5ab;
+	color: white;
+	border-radius: 35px;
+	padding: 2% 29%;
+}
+.btn Button:hover{background: #09e5ab;
+	
+}
